@@ -3,4 +3,4 @@
 2. 将xray.exe和xray_pro 放在同一目录下。
 3. 请以管理员权限运行xray_pro.   
 
-![xray](.\xray.png)
+![xray](https://github.com/0bRobot/xray-pro/blob/main/xray.png)
